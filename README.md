@@ -14,6 +14,3 @@ The codes provides are the 3 completed tasks for my 5th CyberWarrior Academy cap
 --- Deliverables
 
 - Create a github account and upload all your code.
-
-
-I chose option 1, option 2, and option 3.
