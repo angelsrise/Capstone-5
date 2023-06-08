@@ -1,5 +1,5 @@
 # Capstone-5
-The codes provides are the 3 completed tasks for my 5th CyberWarrior Academy capstones.
+
 
 --- 5th Capstone - Scripting
 
