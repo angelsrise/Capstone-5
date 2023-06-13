@@ -14,3 +14,7 @@
 --- Deliverables
 
 - Create a github account and upload all your code.
+
+GROUP 2:
+
+Angel, Constantine, AR
