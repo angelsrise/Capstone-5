@@ -18,3 +18,7 @@
 GROUP 2:
 
 Angel, Constantine, AR
+
+What we have done:
+
+Options 1, 2, 3, 4, and 5 of the capstone. It's fun so we've been playing around with it and doing extra. 
